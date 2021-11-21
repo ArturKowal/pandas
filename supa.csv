@@ -1,0 +1,10 @@
+,Name,Surname,Age,Like?,Male,Full_name,SalaryMonth,SalaryYearly
+4,Angela,Dount,49.0,Yes,False,Angela Dount,3095,37140
+5,Brad,Despacio,28.0,No,True,Brad Despacio,8438,101256
+6,Doggin,Dozuela,34.0,No,True,Doggin Dozuela,4547,54564
+7,Helos,Warus,74.0,Yes,True,Helos Warus,5960,71520
+2,Spider,Man,19.0,No,True,Spider Man,4149,49788
+1,Super,Girl,21.0,No,False,Super Girl,10882,130584
+3,Super,Pandas,,Yes,False,Super Panda,7176,86112
+8,Thor,,33.0,Yes,,Thor,5110,61320
+0,Tony,Stark,32.0,Yes,True,Tony Stark,12676,152112
